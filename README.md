@@ -4,7 +4,7 @@
 
 
 
-[**Jihao Gu**](https://scholar.google.com/citations?hl=en&user=fSWwq3AAAAAJ)<sup>1</sup>, [**Kun Li**](https://scholar.google.com/citations?user=UQ_bInoAAAAJ)<sup>2 :email: </sup>, [**He Wang**](https://drhewang.com/)<sup>1</sup>, [**Kaan Akşit**](https://www.kaanaksit.com/)<sup>1</sup>
+[**Jihao Gu**](https://scholar.google.com/citations?hl=en&user=fSWwq3AAAAAJ)<sup>1</sup>, [**Kun Li**](https://scholar.google.com/citations?user=UQ_bInoAAAAJ)<sup>2</sup>, [**He Wang**](https://drhewang.com/)<sup>1</sup>, [**Kaan Akşit**](https://www.kaanaksit.com/)<sup>1</sup>
 
 <sup>1</sup> University College London, London  
 <sup>2</sup> CVLab, College of Information Technology, United Arab Emirates University
